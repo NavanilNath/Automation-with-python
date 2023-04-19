@@ -1,0 +1,3 @@
+pip install pywhatkit   (write in console)
+import pywhatkit
+pywhatkit.sendwhatmsg("Phone number","sent from python message",hour to sent the message at,minute to send the message at)
